@@ -1,0 +1,14 @@
+C:\Users\Samsung\source\repos\AndrewArnitaCharbelTabet_Project\bin\Release\AndrewArnitaCharbelTabet_Project.exe
+C:\Users\Samsung\source\repos\AndrewArnitaCharbelTabet_Project\bin\Release\AndrewArnitaCharbelTabet_Project.exe.config
+C:\Users\Samsung\source\repos\AndrewArnitaCharbelTabet_Project\obj\Release\AndrewArnitaCharbelTabet_Project.FirstForm.resources
+C:\Users\Samsung\source\repos\AndrewArnitaCharbelTabet_Project\obj\Release\AndrewArnitaCharbelTabet_Project.IntroForm.resources
+C:\Users\Samsung\source\repos\AndrewArnitaCharbelTabet_Project\obj\Release\AndrewArnitaCharbelTabet_Project.Properties.Resources.resources
+C:\Users\Samsung\source\repos\AndrewArnitaCharbelTabet_Project\obj\Release\AndrewArnitaCharbelTabet_Project.csproj.GenerateResource.cache
+C:\Users\Samsung\source\repos\AndrewArnitaCharbelTabet_Project\obj\Release\AndrewArnitaCharbelTabet_Project.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\source\repos\AndrewArnitaCharbelTabet_Project\obj\Release\AndrewArnitaCharbelTabet_Project.exe
+C:\Users\Samsung\source\repos\AndrewArnitaCharbelTabet_Project\obj\Release\AndrewArnitaCharbelTabet_Project.pdb
+C:\Users\Samsung\source\repos\AndrewArnitaCharbelTabet_Project\bin\Release\AndrewArnitaCharbelTabet_Project.pdb
+C:\Users\Samsung\source\repos\AndrewArnitaCharbelTabet_Project\bin\Release\Resources\firstimage.jpg
+C:\Users\Samsung\source\repos\AndrewArnitaCharbelTabet_Project\obj\Release\AndrewArnitaCharbelTabet_Project.BattleForm.resources
+C:\Users\Samsung\source\repos\AndrewArnitaCharbelTabet_Project\obj\Release\AndrewArnitaCharbelTabet_Project.GameForm.resources
+C:\Users\Samsung\source\repos\AndrewArnitaCharbelTabet_Project\obj\Release\AndrewArnitaCharbelTabet_Project.csprojAssemblyReference.cache
